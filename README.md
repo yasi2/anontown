@@ -1,3 +1,6 @@
+[サイト](http://anontown.com/)
+[wiki](https://github.com/kgtkr/Anontown/wiki)
+
 # リポジトリ
 * Anontown(ここ)
 wikiやtodoなど、全体に関わる事
