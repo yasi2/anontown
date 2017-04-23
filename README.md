@@ -1,8 +1,6 @@
 [サイト](https://anontown.com/)
 
 # リポジトリ
-* [サーバーサイドプログラム](https://github.com/kgtkr/anontown-server)
-* [クライアントメインWEBアプリ](https://github.com/kgtkr/anontown-client)
-* [クライアントユーザーWEBアプリ](https://github.com/kgtkr/anontown-user)
-* [Angular2モジュール](https://github.com/kgtkr/anontown-library)
+* [サーバー](https://github.com/kgtkr/anontown-server)
+* [クライアント](https://github.com/kgtkr/anontown-client)
 * [ドキュメント](https://github.com/kgtkr/anontown-document)
