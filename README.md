@@ -7,7 +7,7 @@
 * https://anontown.com/
 
 # リポジトリ
-見て分かるように、このリポジトリにはREADME.md以外のファイルはありません。  
+見て分かるように、このリポジトリにソースコードはありません。  
 ソースコードやドキュメントは他のリポジトリで管理しています。
 * [サーバー](https://github.com/kgtkr/anontown-server)
 * [クライアント](https://github.com/kgtkr/anontown-client)
