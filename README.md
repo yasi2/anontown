@@ -13,6 +13,6 @@
 * [クライアント](https://github.com/kgtkr/anontown-client)
 * [ドキュメント](https://github.com/kgtkr/anontown-document)
 
-# Bitcoinアドレス
-寄付して下さると助かります  
-`1BzX1EtapU8kFubJnBwxbR1t3icpVneMZo`
+# 寄付
+寄付して下さると助かります。  
+Bitcoinアドレス:`1BzX1EtapU8kFubJnBwxbR1t3icpVneMZo`
