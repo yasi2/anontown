@@ -14,5 +14,9 @@
 * [ドキュメント](https://github.com/kgtkr/anontown-document)
 
 # 寄付
-寄付して下さると助かります。  
-Bitcoinアドレス:`1BzX1EtapU8kFubJnBwxbR1t3icpVneMZo`
+サーバーの運営費などの為に寄付して下さると助かります。
+
+|種類|アドレス|
+|:--|:--|
+|bitcoin|1BzX1EtapU8kFubJnBwxbR1t3icpVneMZo|
+|monacoin|MSp6GRJNfrkewkqezL3NuTUuYysuZ1eZ3u|
